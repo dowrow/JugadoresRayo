@@ -1,8 +1,5 @@
 package es.upm.miw.jugadoresrayo.models;
 
-/**
- * Created by dowrow on 30/10/15.
- */
 public class Futbolista {
 
     private int _id;
